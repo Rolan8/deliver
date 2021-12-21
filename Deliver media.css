@@ -1,0 +1,284 @@
+@media (max-width: 1285px) {
+  .p2main {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .flex1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .opac h1 {
+    text-align: center;
+  }
+
+  .opac span {
+    top: 50%;
+    left: 50%;
+    margin-left: -246px;
+    margin-top: -41px;
+  }
+}
+@media (max-width: 1170px) {
+  .mehmid {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .mehmid .mehtext {
+    position: inherit;
+  }
+
+  .servflex {
+    padding-bottom: 3rem;
+  }
+
+  .title {
+    padding: 3rem 5px 1.5rem 5px;
+  }
+  .title h1 {
+    font-size: 2.2rem;
+  }
+
+  .mehmid .meh:last-child {
+    padding-bottom: 3rem;
+  }
+
+  .p4 {
+    margin-bottom: 5rem;
+  }
+}
+@media (max-width: 970px) {
+  .flex2 {
+    -ms-flex-flow: wrap;
+        flex-flow: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 1em;
+    padding: 20px 0px;
+  }
+
+  .p1ul {
+    -webkit-box-ordinal-group: 4;
+        -ms-flex-order: 3;
+            order: 3;
+    text-align: center;
+    width: 100%;
+    line-height: 1.8em;
+  }
+  .p1ul ul > li a:hover {
+    color: #910404;
+    padding-bottom: 0em;
+    border-bottom: 0;
+  }
+
+  .p2 {
+    padding: 4.5rem 0px;
+  }
+
+  .p2main {
+    text-align: center;
+  }
+  .p2main hr {
+    max-width: 100%;
+    margin-bottom: 1.5rem;
+  }
+  .p2main p {
+    max-width: 100%;
+    text-align: left;
+    padding: 0px 1rem;
+  }
+  .p2main p br {
+    display: none;
+  }
+  .p2main h1 {
+    margin-bottom: 1.5rem;
+  }
+
+  .p5flex {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    max-width: 500px;
+    /*min-width: 370px;*/
+    gap: 2rem;
+  }
+}
+@media (max-width: 740px) {
+  .opac h1 {
+    font-size: 5.2em;
+  }
+
+  .p6 .align {
+    text-align: center;
+    padding: 3rem 0.5rem;
+  }
+
+  .p6 .p6text h1 {
+    font-size: 1.3rem;
+  }
+
+  .p6 .p6text p {
+    font-size: 0.9rem;
+    text-align: left;
+    padding: 0px 1rem;
+  }
+
+  .servflex .DH1 hr {
+    max-width: 100%;
+  }
+
+  .lastNav {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 2rem;
+  }
+
+  .lastn {
+    width: 225px;
+  }
+  .lastn h3 {
+    text-align: center;
+    margin-bottom: 0.6rem;
+  }
+  .lastn ul {
+    line-height: 1.5rem;
+  }
+}
+@media (max-width: 580px) {
+  .flex1 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 1em;
+  }
+
+  .title h1 {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+
+  .contact .contcenter {
+    margin-right: 1.5rem;
+  }
+
+  .p2main h1 {
+    font-size: 60px;
+  }
+
+  .opac h1 {
+    font-size: 4.2rem;
+  }
+
+  .opac span {
+    font-size: 1.5rem;
+    margin-left: -148px;
+    margin-top: -24px;
+  }
+
+  .mehmid .meh {
+    margin: 0px 1rem;
+  }
+
+  .p5flex, .p4 {
+    margin-bottom: 3rem;
+  }
+
+  .p2 {
+    padding: 3rem 0;
+  }
+
+  .servflex div {
+    -ms-flex-preferred-size: 370px;
+        flex-basis: 370px;
+    text-align: center;
+  }
+
+  .serv, .DH1 {
+    margin: 0px 1rem;
+  }
+
+  .p5form, .munhen {
+    margin: 0px 1rem;
+  }
+
+  .p6 .align {
+    padding: calc(3rem - 17.42px) 0.5rem 3rem 0.5rem;
+  }
+
+  .p7 {
+    margin: 3rem 0;
+  }
+}
+@media (max-width: 481px) {
+  .p2main .p2buts button:last-child {
+    margin-top: 25px;
+  }
+
+  .flex1 {
+    gap: 0px;
+    line-height: 2em;
+  }
+
+  .p2main h1 {
+    font-size: 45px;
+  }
+
+  .contact div {
+    display: block;
+  }
+
+  .contact .contcenter {
+    margin-right: 1rem;
+  }
+
+  .p1ul ul {
+    word-spacing: 1.2rem;
+  }
+
+  .p2main .p2inline span {
+    margin: 0px 15px;
+  }
+
+  .p2main p {
+    margin-bottom: 21px;
+  }
+
+  .p2main .p2buts {
+    margin-top: 1.4em;
+  }
+}
+@media (max-width: 415px) {
+  .opac h1 {
+    font-size: 3rem;
+  }
+
+  .opac span {
+    font-size: 1.3rem;
+    margin-left: -128.67px;
+    margin-top: -21.5px;
+  }
+
+  .yellowboard .invisibl {
+    padding: 1rem 0.5rem;
+  }
+  .yellowboard .invisibl h3 {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+
+  .p5toggle {
+    padding: 1rem;
+  }
+
+  .p2main .p2inline {
+    line-height: 2rem;
+  }
+}
