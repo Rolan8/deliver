@@ -1,5 +1,5 @@
 
-@media(min-width: 970px){
+@media(max-width: 970px){
    .prelast div:hover {
   border-color: rgba(0, 0, 0, 0.8);
   -webkit-transition: 0.2s;
