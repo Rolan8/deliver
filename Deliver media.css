@@ -1,3 +1,15 @@
+
+@media(min-width: 970px){
+   .prelast div:hover {
+  border-color: rgba(0, 0, 0, 0.8);
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+}
+.prelast div:hover:before {
+  opacity: 0.8;
+}
+}
+
 @media (max-width: 1285px) {
   .p2main {
     padding-left: 10px;
