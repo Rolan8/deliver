@@ -577,14 +577,14 @@ header {
   cursor: pointer;
   position: relative;
 }
-/* .prelast div:hover {
+.prelast div:hover {
   border-color: rgba(0, 0, 0, 0.8);
   -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .prelast div:hover:before {
   opacity: 0.8;
-} */
+}
 .prelast div:before {
   content: "";
   position: absolute;
