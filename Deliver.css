@@ -413,7 +413,7 @@ header {
 }
 
 .visibl {
- display: flex;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1rem;
@@ -421,11 +421,11 @@ header {
   color: white;
   min-width: 291px;
 }
-}
 .visibl div:first-child {
   padding: 0.5rem;
 }
 .visibl div:last-child {
+  /*float: right;*/
   padding: 0.5rem .6rem;
   border-left: 2px solid;
   cursor: pointer;
@@ -580,14 +580,14 @@ header {
   cursor: pointer;
   position: relative;
 }
-/* .prelast div:hover {
+.prelast div:hover {
   border-color: rgba(0, 0, 0, 0.8);
   -webkit-transition: 0.2s;
   transition: 0.2s;
 }
 .prelast div:hover:before {
   opacity: 0.8;
-} */
+}
 .prelast div:before {
   content: "";
   position: absolute;
@@ -671,11 +671,3 @@ header {
       -ms-flex: 1;
           flex: 1;
 }
-
-/*.tg {
-  	width: 0;
-	height: 0;
-	border-top: 50px solid transparent;
-	border-left: 100px solid red;
-	border-bottom: 50px solid transparent;
-}*/
