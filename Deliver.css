@@ -422,7 +422,7 @@ header {
   min-width: 291px;
 }
 .visibl div:first-child {
-  padding: 0.5rem;
+  padding-left: 0.5rem;
 }
 .visibl div:last-child {
   /*float: right;*/
